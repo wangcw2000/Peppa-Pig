@@ -1,39 +1,4 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@wangcw2000 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-rainbow10086
-/
-Peppa-Pig
-6
-6111
-Code
-Issues
-11
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-爱的魔力转圈圈。 #2
- Open
-rainbow10086 opened this issue on 11 Jun 2019 · 3 comments
- Open
-爱的魔力转圈圈。
-#2
-rainbow10086 opened this issue on 11 Jun 2019 · 3 comments
-Comments
-@rainbow10086
+https://github.com/rainbow10086/Peppa-Pig/issues/2
  
 Owner
 rainbow10086 commented on 11 Jun 2019 • 
